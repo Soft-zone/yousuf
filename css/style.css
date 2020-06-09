@@ -1,0 +1,88 @@
+
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+
+.w3-lobster {
+  font-family: "Lobster", serif;
+}
+.mySlides {
+	display:none;
+	background-color:#bcc8bd;
+	border-radius: 40px;
+
+}
+.w3-bar {
+    width: 100%;
+    overflow: hidden;
+    padding: 20px;
+}
+.html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: #30ecc0;
+}
+.h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    margin: 29px 0;
+    text-align: center;
+}
+.w3-button:hover {
+    color: #f00 !important;
+    background-color:#b20f82;!important;
+}
+.w3-green, .w3-hover-green:hover {
+    color: #fff !important;
+    background-color: #A8103B !important;
+}
+.rar{
+	float:right;
+}
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 21px 219px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000 !important;
+    background-color: #d28b8b !important;
+}	
+.html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.w3-button:hover {
+    color: #000 !important;
+    background-color: #c71852 !important;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #fff !important;
+    background-color: #d28b8b !important;
+}
+.w3-blue, .w3-hover-blue:hover {
+    color: #fff !important;
+    background-color: #B06D9C !important;
+}
+.sdsmap{
+	float:right;
+}
+
+.w3-container, .w3-panel {
+    padding: 0.01em 22px;
+}
+.text{
+	text-align:center;
+}
